@@ -1,0 +1,4 @@
+node_modules/
+Preppela-backend/node_modules/
+dist/
+.env
